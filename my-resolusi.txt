@@ -2,3 +2,6 @@ My Resoulusi
 
 - Bulan depan sudah selesai untuk materi node.js, restAPI dan menjadi seorang web developer
 - Bulan depan sudah selesai membuat portfolio tanpa framework
+
+- untuk Oktober = Setelah mempunyai portfolio tanpa framework, lalu buat dengan bootstrap
+- membuat web untuk KSEI AkSES
