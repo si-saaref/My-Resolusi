@@ -5,3 +5,7 @@
   - Machine Learning
   - Django
   - Flask
+- Belajar Java script
+  ^ react 
+  ^ vue
+  ^ angular
