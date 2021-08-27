@@ -1,7 +1,9 @@
 - Belajr node.js
   // sekalian sama ES6, arrow func, async await, js advanced
-- belajar mongoDb
+- belajar mongoDb dan MySQL
 - belajar python
   - Machine Learning
   - Django
-  - Flask
+- belajr javascript
+  ^ Vue
+  ^ react
