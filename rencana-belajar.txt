@@ -4,6 +4,7 @@
 - belajar python
   - Machine Learning
   - Django
-- belajr javascript
-  ^ Vue
-  ^ react
+- Belajar Java script
+  ^ react 
+  ^ vue
+  ^ angular
