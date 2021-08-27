@@ -1,0 +1,3 @@
+- Belajr node.js
+- belajar mongoDb
+- belajar python
