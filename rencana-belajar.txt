@@ -1,0 +1,4 @@
+- Belajr node.js
+  // sekalian sama ES6, arrow func, async await, js advanced
+- belajar mongoDb
+- belajar python
