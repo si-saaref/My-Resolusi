@@ -1,0 +1,4 @@
+My Resoulusi
+
+- Bulan depan sudah selesai untuk materi node.js, restAPI dan menjadi seorang web developer
+- Bulan depan sudah selesai membuat portfolio tanpa framework
